@@ -1,0 +1,7 @@
+Install required libraries:
+numpy
+pandas
+scikit-learn
+joblib
+Install them with:
+pip install -r requirements.txt
