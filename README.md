@@ -1,2 +1,23 @@
 # Fake-News-Detection-with-Python
-This project focuses on building a Machine Learning model that can automatically detect whether a news article is Fake or Real. With the rapid growth of online news platforms and social media, misinformation spreads quickly. This system helps identify misleading content using Natural Language Processing (NLP) techniques. 
+# Fake News Detection (Python & ML)
+
+This project trains a machine learning model that classifies news as **real** or **fake** using Python and Scikit-Learn.
+
+---
+
+## 🔍 Features
+
+✔ TF-IDF text feature extraction  
+✔ Passive Aggressive Classifier  
+✔ Train, evaluate & predict modules  
+✔ Easy GitHub push
+
+---
+
+## 🧠 How to Run
+
+1. Clone repo  
+2. Create virtual environment  
+3. Install dependencies  
+   ```bash
+   pip install -r requirements.txt
